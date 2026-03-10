@@ -6,6 +6,25 @@ This edition focuses on **Islamic inheritance reasoning (ʿIlm al-Mawārīth)** 
 
 ---
 
+## 📖 Citation
+
+If you use this dataset or code in your research, please cite:
+
+```bibtex
+@misc{bouchekif2026mawarithdatasetbenchmarklegal,
+      title={MAWARITH: A Dataset and Benchmark for Legal Inheritance Reasoning with LLMs}, 
+      author={Abdessalam Bouchekif and Shahd Gaben and Samer Rashwani and Somaya Eltanbouly and Mutaz Al-Khatib and Heba Sbahi and Mohammed Ghaly and Emad Mohamed},
+      year={2026},
+      eprint={2603.07539},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.07539}, 
+}
+```
+
+
+
+
 ## 🧭 Background: From MCQs to Full Reasoning
 
 In the previous edition ([QIAS 2025](https://https://sites.google.com/view/qias2025)), LLMs were evaluated using **multiple-choice questions (MCQs)** covering:
