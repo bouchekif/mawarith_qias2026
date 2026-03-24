@@ -11,14 +11,11 @@ This edition focuses on **Islamic inheritance reasoning (ʿIlm al-Mawārīth)** 
 If you use this dataset or code in your research, please cite:
 
 ```bibtex
-@misc{bouchekif2026mawarithdatasetbenchmarklegal,
-      title={MAWARITH: A Dataset and Benchmark for Legal Inheritance Reasoning with LLMs}, 
-      author={Abdessalam Bouchekif and Shahd Gaben and Samer Rashwani and Somaya Eltanbouly and Mutaz Al-Khatib and Heba Sbahi and Mohammed Ghaly and Emad Mohamed},
-      year={2026},
-      eprint={2603.07539},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2603.07539}, 
+@article{bouchekif2026mawarith,
+  title={MAWARITH: A Dataset and Benchmark for Legal Inheritance Reasoning with LLMs},
+  author={Bouchekif, Abdessalam and Gaben, Shahd and Rashwani, Samer and Eltanbouly, Somaya and Al-Khatib, Mutaz and Sbahi, Heba and Ghaly, Mohammed and Mohamed, Emad},
+  journal={arXiv preprint arXiv:2603.07539},
+  year={2026}
 }
 ```
 
